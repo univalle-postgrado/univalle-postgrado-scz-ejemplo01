@@ -1,0 +1,22 @@
+{
+  "name": "univalle-postgrado-scz-ejemplo01",
+  "version": "1.0.0",
+  "description": "Ejemplo 1 sobre express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "backend",
+    "univalle"
+  ],
+  "author": "Marcelo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
